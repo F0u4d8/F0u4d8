@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Animated banner" width="100%" />
+</p>
+
 # Hi, I'm Mohammed Fouad Mahkouka 👋
 
 **Senior Full-Stack Engineer · PhD Researcher in AI Security** — Béchar, Algeria
